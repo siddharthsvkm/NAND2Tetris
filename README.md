@@ -5,6 +5,10 @@ This course explains how the components in hardware, architecture, operating sys
 
 The first four projects that construct the computer platform are built using a simple Hardware Description Language (HDL) and simulated on a hardware simulator. The five subsequent software projects can be written in any modern programming language, but I chose to use {}. The remaining three projects are written in the assembly language and high-level language implemented in previous projects.
 
+|Abstraction|Chapter Number|Concept|
+|---|---|---|
+|Abstraction|1|Boolean Logic|
+
 Here is the website for more information:  
 
 [Nand2Tetris](https://www.nand2tetris.org/)
