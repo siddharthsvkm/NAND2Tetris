@@ -20,6 +20,5 @@ The first four projects that construct the computer platform are built using a s
 ||Chapter 11|Code Generation|
 |Application/System Design|Chapter 12|Operating System|
 
-Here is the website for more information:  
-
+Here is the website for more information:           
 [Nand2Tetris](https://www.nand2tetris.org/)
