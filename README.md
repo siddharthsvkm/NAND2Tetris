@@ -13,11 +13,11 @@ The first four projects that construct the computer platform are built using a s
 |Computer Architecture|Chapter 4|Machine Language|
 ||Chapter 5|Computer Architecture|
 |Assembler|Chapter 6|Assembler|
-|VM Translator|Chapter 7|VM 1: Stack Arithmetic|
-||Chapter 8|VM 2: Program Control|
+|Virtual Machine| Translator|Chapter 7|Stack Arithmetic|
+||Chapter 8|Program Control|
 |Application/System Design|Chapter 9|High-Level Language|
-|Compiler|Chapter 10|Compiler 1: Syntax Analysis|
-||Chapter 11|Compiler 2: Code Generation|
+|Compiler|Chapter 10|Syntax Analysis|
+||Chapter 11|Code Generation|
 |Application/System Design|Chapter 12|Operating System|
 
 Here is the website for more information:  
